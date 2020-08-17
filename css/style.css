@@ -1,0 +1,31 @@
+/*.parent {
+	display: flex;
+	background-color: #40FF00;
+	flex-wrap: wrap;
+}*/
+
+* {
+  box-sizing: border-box;
+     }
+.child1{
+width:20%;
+float: left;
+background-color: red;
+padding: 10px;
+}
+.child2{
+width:70%;
+float: left;
+background-color: green;
+padding: 10px;
+}
+
+.child {
+	font-size: 30px;
+	width: auto;
+	padding: 100px;
+	margin:1%;
+	color: #fff;
+	background-color: #2E2EFE;
+	/*#2E2EFE is hexadecimal code for colors*/
+}
