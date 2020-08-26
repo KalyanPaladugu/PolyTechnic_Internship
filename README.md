@@ -85,3 +85,37 @@
 # Functions
 + Functions with out parameters
 + Functions with- parameters
+
+## JS Events
+
++ onclick
++ onmouseover
++ onmouseout
+
+# ES 6 Features
+
++ let, const
++ var,let,const
+  - Scope
+    - Functional or block 
+  - Redeclare
+  - Redefine
+
+### var
+  
++ Function level scope
++ var variable can be Redeclared
++ var variable can be Redefined
+
+
+### let
++ Scope is block level
++ let variable can't be Redeclare
++ let variable can be Redefined
+
+
+
+### const
++ scope is block level
++ const variable can't be Redeclare
++ const variable can't be Redefine
