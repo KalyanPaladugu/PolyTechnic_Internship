@@ -119,3 +119,49 @@
 + scope is block level
 + const variable can't be Redeclare
 + const variable can't be Redefine
+
+# Regular Expressions
+
++ Regular expressions are mainly used to match patterns
++ Regular expression is an object that describes a pattern of characters
+
+Syntax:
+    /pattern/modifiers
+   
+   
+
+### Modifiers:
++ g  for global matching 
++ i  for case-insensitive matching
++ m   multiline matching  (^ for first character matching $ for last character matching)
+
+#### Brackets
+
++ brackets are used to find the range of characters
+
+[abc]   - fist character of your input should contain any character in list of bracket
+[^abc]  - Find any character not between the brackets
+[0-9]   - find any character between 0 to 9 digits
+[^0-9]  - to match any non digit
+(firstpatter | second pattern)  - to include no of patterns for input
+
+
+#### Quantifiers
+
++ n{input range}  Matches any string that contains a range  ( n is may character or digit)
++ n{4,}           Matches input contain atleast 4 characters
+
+
+Task:
+======
+- First two characters are digits
+- from third character onwards it contains atleast 3 letters
+- any one special character
+- any digits
+
+Tasks:
+=======
+Patterns for mobile number ,Email
+
+
+
