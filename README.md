@@ -170,8 +170,8 @@ Patterns for mobile number ,Email
 
 + Develop a Regular expression for the  password
   - One capital letter
-  - one small letter
-  - one digit
-  - one special character
-  - password length is between 8 to characters
+  - One small letter
+  - One digit
+  - One special character
+  - Password length is between 8 to 16 characters
 
