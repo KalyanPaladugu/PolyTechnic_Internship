@@ -165,5 +165,13 @@ Tasks:
 =======
 Patterns for mobile number ,Email
 
+27-8-2020:
+===========
 
++ Develop a Regular expression for the  password
+  - One capital letter
+  - one small letter
+  - one digit
+  - one special character
+  - password length is between 8 to characters
 
