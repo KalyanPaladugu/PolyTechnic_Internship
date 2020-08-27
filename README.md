@@ -164,7 +164,17 @@ Task:
 Tasks:
 =======
 Patterns for mobile number ,Email
-
+   - Mobile Number
+   ```
+    ^[6-9][0-9]{9}      ^[6-9]+\d{9}
+   ```
+  -Email Id
+  ```
+  ^\S+@+\S+.\S+
+  ```
+   
+  
+ 
 27-8-2020:
 ===========
 
@@ -175,3 +185,6 @@ Patterns for mobile number ,Email
   - One special character
   - Password length is between 8 to 16 characters
 
+```
+^(?=.*[!@#$%^&*])(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9]).{8,16}$
+```
