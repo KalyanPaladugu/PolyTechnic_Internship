@@ -35,7 +35,7 @@
       - Forms
       - Nav components
 
-
+25-8-2020
 
 # JavaScript
 
@@ -92,6 +92,8 @@
 + onmouseover
 + onmouseout
 
+26-8-2020:
+============
 # ES 6 Features
 
 + let, const
