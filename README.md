@@ -188,3 +188,28 @@ Patterns for mobile number ,Email
 ```
 ^(?=.*[!@#$%^&*])(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9]).{8,16}$
 ```
+
+01-09-2020:
+===========
+
+Promises:A promise is an object that may produce a single value some time in the future.Promises are used to handle asynchronous operations in JavaScript.
+Prior to promises events and callback functions were used but they had limited functionalities and created unmanageable code
+
+A Promise has four states:
+    - fulfilled: Action related to if the promise succeeded
+    - rejected: Action related to if the promise failed
+    - pending: Promise is still pending example: not fulfilled or rejected yet
+    - settled: The Promise has fulfilled or rejected
+
+
+         
+ Benefits of using Promises:
+    - A promise can Improves Code Readability
+    - For Better handling of asynchronous operations
+    - In asynchronous logic, it has a better flow of control definition
+    - For Better Error Handling
+    
+    
+Examples:
+	        Fetch API
+         Cache API
